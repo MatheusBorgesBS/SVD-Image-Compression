@@ -1,5 +1,4 @@
-Vou simplificar o README e adicionar suas imagens:
-markdown# SVD Image Compression
+# SVD Image Compression
 
 Implementation of Singular Value Decomposition (SVD) from scratch in Octave/MATLAB for image compression.
 
